@@ -1,6 +1,6 @@
-#Hello and welcome to the python asteroids game!
+# Hello and welcome to the python asteroids game!
 
-###To run this game you will need python 3.8 and higher.
+### To run this game you will need python 3.8 and higher.
 
 - Fork the repo
 - Download the files to your machine
